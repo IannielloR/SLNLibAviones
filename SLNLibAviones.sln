@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibAviones", "LibAviones\LibAviones.csproj", "{8334FEAD-19DD-481A-BB97-2E35EED8F2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAviones", "AppAviones\AppAviones.csproj", "{EECAF22A-7590-4465-AA1B-DEFB85BEA1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8334FEAD-19DD-481A-BB97-2E35EED8F2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8334FEAD-19DD-481A-BB97-2E35EED8F2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8334FEAD-19DD-481A-BB97-2E35EED8F2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8334FEAD-19DD-481A-BB97-2E35EED8F2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECAF22A-7590-4465-AA1B-DEFB85BEA1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECAF22A-7590-4465-AA1B-DEFB85BEA1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECAF22A-7590-4465-AA1B-DEFB85BEA1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECAF22A-7590-4465-AA1B-DEFB85BEA1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F362EC47-E208-41CF-ABCE-8F3BA97A4611}
+	EndGlobalSection
+EndGlobal
